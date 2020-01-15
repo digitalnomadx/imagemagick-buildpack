@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Provides metadata back to the runtime.
+#
+# Usage:
+#
+#   bin/release
+#
+# See: https://devcenter.heroku.com/articles/buildpack-api#bin-release:
+
+echo "--- {}"
