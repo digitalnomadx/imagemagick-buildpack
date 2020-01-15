@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# Determines whether to apply this buildpack to an app.
+#
+# Usage:
+#
+#   bin/detect BUILD_DIR
+#
+# See: https://devcenter.heroku.com/articles/buildpack-api#bin-detect
+
+echo "ImageMagick"
+exit 0
